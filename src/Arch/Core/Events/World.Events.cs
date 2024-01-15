@@ -1,4 +1,5 @@
-﻿using Arch.Core.Events;
+﻿#define EVENTS
+using Arch.Core.Events;
 using Arch.Core.Extensions;
 using Arch.Core.Utils;
 
